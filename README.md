@@ -2,6 +2,7 @@
 This project is about building an interactive dashboard to understand, analyse and gain insights from the transactional data of ATMs of bank situated at different locations. The insights so obtained will help to improve bank's service delivery to the customer and also help to identify areas of scope for improvement
 The dataset can be accessed through link:https://drive.google.com/drive/folders/11h6RCsniJXMrfRhXnxSo_8-buBveWcgU
 ![2](https://github.com/Harikrishnan-Nair/PowerBI-ATM-Transaction-Analysis-Project/assets/95662379/307831a5-454c-4158-8403-09d331011a59)
+
 It consists of data related to transactions(of 5 states in Africa), customers, ATM location, calender, transaction type, hour data. All the these data were loaded to the PowerBI and few new columns were calculated folowing which the models were loaded and visuals were created. The visuals so created will garner to the bank managements queries raised and also help them to perform better decisions based on the data.
 
 ![3](https://github.com/Harikrishnan-Nair/PowerBI-ATM-Transaction-Analysis-Project/assets/95662379/6f5deeab-ce40-4224-bdc0-d2f82c560ab7)
